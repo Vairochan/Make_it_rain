@@ -1,6 +1,6 @@
 # make_it_rain
 
-A new Flutter project.
+A simple flutter application in which a button is displayed "Let it Rain", on tapping the button there will be an increment of $100 each time and after reaching a cirtain amount the color of the amount displayed will be changed.
 
 ## Getting Started
 
